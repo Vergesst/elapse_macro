@@ -1,0 +1,8 @@
+[package]
+name = "actor_playground"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+elapse = {path = "./elapse"}
+runtime = {path = "./runtime"}
